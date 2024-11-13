@@ -1,0 +1,16 @@
+.custom-input {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+    transition: border-color 0.3s;
+    letter-spacing: 2px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+/* Focus effect */
+.custom-input:focus {
+    border-color: #c0daeb;
+}
