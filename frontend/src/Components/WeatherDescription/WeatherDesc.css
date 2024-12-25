@@ -1,0 +1,45 @@
+.weather-description {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-left: 0px;
+  }
+  
+  .description-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  
+  .weather-description .description {
+    font-weight: bold;
+    margin-top: 5%;
+    margin-left: 10px; /* Space between the gif and the description */
+    font-size: 25px; /* Adjust the font size as needed */
+    width: 200px;
+    letter-spacing: 1px;
+  }
+  
+  .weather-description .error {
+    color: red;
+    font-weight: bold;
+  }
+  
+  .weather-gif {
+    width: 170px; /* Adjust the size of the gif */
+    height: 170px;
+  }
+  
+  @media (max-width: 768px) {
+    .weather-description {
+      font-size: 16px;
+    }
+  
+    .weather-gif {
+      width: 30px;
+      height: 30px;
+    }
+  }
+  

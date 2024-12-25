@@ -1,0 +1,51 @@
+.weatherData h3 {
+    position: absolute;
+    top: 40px;
+    letter-spacing: 2px;
+    left: 60px;
+    width: 400px;
+  }
+  
+  .TempShow {
+    display: inline-flex;
+    position: absolute;
+    top: 150px;
+    left: 30px;
+  }
+  
+  .WindShow { /* New class for wind speed */
+    display: inline-flex;
+    position: absolute;
+    top: 330px;  /* Adjust this to place it directly below the temperature */
+    left: 35px;
+  }
+  .windDataDir{
+    display: inline-flex;
+    position: absolute;
+    top: 350px;  /* Adjust this to place it directly below the temperature */
+    left: 120px;
+  }
+  
+  #temp {
+    margin-top: 5%;
+    margin-left: 15%;
+    width: 250px;
+    letter-spacing: 1px;
+  }
+  
+  #windSpeed {  /* New ID for wind speed text */
+    margin-top: 4%;
+    margin-left: 15%;
+    width: 250px;
+    letter-spacing: 1px;
+  }
+  .WindDir {  /* New ID for wind speed text */
+    margin-top: 25%;
+    width: 250px;
+    letter-spacing: 1px;
+  }
+
+
+  #windDir{
+    margin-top: -22%;
+  }

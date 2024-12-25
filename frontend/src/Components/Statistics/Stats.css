@@ -1,0 +1,16 @@
+#chart-container {
+    display: flex;
+    justify-content: flex-end; /* Aligns the chart to the right */
+    margin: 20px; /* Adds some spacing */
+  }
+  
+  #myChart {
+    width: 400px !important; /* Adjusts the width */
+    height: 250px !important; /* Adjusts the height */
+    border-radius: 8px; /* Rounds the edges */
+    padding: 10px;
+    position: absolute;
+    top: 30px;
+    left: 600px;
+  }
+  

@@ -1,0 +1,20 @@
+.custom-button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+/* Hover effect */
+.custom-button:hover {
+    opacity: 0.9;
+}
+
+/* Focus effect */
+.custom-button:focus {
+    outline: 2px solid #ffffff;
+    outline-offset: 2px;
+}

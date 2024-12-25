@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.23b5c06b.css",
+    "main.js": "/static/js/main.40eeb188.js",
+    "static/media/afternoon-sunny.mp4": "/static/media/afternoon-sunny.f0bf9f1b1049d9c12918.mp4",
+    "static/media/morning-sunny2.mp4": "/static/media/morning-sunny2.c3c0ccf0b590b35e7b97.mp4",
+    "static/media/night-sunny.mp4": "/static/media/night-sunny.59e75226d30ad48f9ede.mp4",
+    "static/media/winddir.gif": "/static/media/winddir.3f55a1024012cd08fe5b.gif",
+    "static/media/vent.gif": "/static/media/vent.0aa1d38d846cca515c6a.gif",
+    "static/media/desccloudy.gif": "/static/media/desccloudy.002e9d2e28dce4e7ede5.gif",
+    "static/media/hum.gif": "/static/media/hum.8d0bdd2ea90d9084098b.gif",
+    "static/media/descnightclear.gif": "/static/media/descnightclear.138e62576494bdbf48f3.gif",
+    "static/media/descnightcloudy.gif": "/static/media/descnightcloudy.bb20ad6903ca2d283e02.gif",
+    "static/media/descsunny.gif": "/static/media/descsunny.861e6da8e7214cd45971.gif",
+    "static/media/descpluie.gif": "/static/media/descpluie.948d6e8f8405cb59f84a.gif",
+    "static/media/descvent.gif": "/static/media/descvent.e7575d259602cd5c857e.gif",
+    "static/media/KarlaTamilUpright-Bold.ttf": "/static/media/KarlaTamilUpright-Bold.218ae8e87f8d0204e43b.ttf",
+    "static/media/temp.gif": "/static/media/temp.441fc54956635b05fad6.gif",
+    "index.html": "/index.html",
+    "main.23b5c06b.css.map": "/static/css/main.23b5c06b.css.map",
+    "main.40eeb188.js.map": "/static/js/main.40eeb188.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23b5c06b.css",
+    "static/js/main.40eeb188.js"
+  ]
+}

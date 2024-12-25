@@ -1,0 +1,19 @@
+/* App.css */
+.app {
+  position: relative;
+  z-index: 1; /* Ensures content appears above the background */
+}
+
+.weather-card, .weather-details {
+  position: relative;
+  z-index: 2;
+}
+.time-date-container{
+  position: absolute;
+  top: 70px;
+  left: 440px;
+}
+.weather-cards-container{
+  position: absolute;
+  top: 2px;
+}

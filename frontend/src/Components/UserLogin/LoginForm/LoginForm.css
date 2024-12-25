@@ -1,0 +1,74 @@
+.login-form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full height of the viewport */
+  }
+  
+  .form-login {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8); /* White background with low opacity */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: for a subtle shadow effect */
+    max-width: 300px;
+    width: 80%;
+  }
+  
+  .form-login div {
+    margin-bottom: 15px;
+  }
+  
+  .form-login label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .custom-button {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .custom-button:hover {
+    background-color: darken(black, 10%); /* Optional: slightly darken the button color on hover */
+  }
+  
+  input[type="text"],
+  input[type="email"],
+
+  input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  
+  input[type="text"]:focus,
+  input[type="email"],
+
+  input[type="password"]:focus {
+    border-color: #333; /* Optional: change the border color on focus */
+    outline: none;
+  }
+  .signup-text {
+    margin-top: 1rem;
+    text-align: center;
+  }
+  
+  .signup-text a {
+    color: #0066cc;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  
+  .signup-text a:hover {
+    text-decoration: underline;
+  }
